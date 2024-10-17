@@ -1,5 +1,4 @@
-
-#Phishing Website Detection
+# Phishing URL Detection using Machine Learning
 Deskripsi
 Aplikasi ini menggunakan model pembelajaran mesin (machine learning) untuk mendeteksi apakah sebuah situs web merupakan phishing site atau bukan. Aplikasi ini dikembangkan untuk membantu pengguna mengenali situs yang berpotensi berbahaya dan melindungi informasi pribadi mereka.
 
