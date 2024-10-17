@@ -12,7 +12,7 @@ This project focuses on detecting phishing URLs using various machine learning m
 - [Contributing Team](#contributing)
 
 ## Overview
-This project builds a phishing URL detection system using a variety of machine learning models such as Logistic Regression, Decision Tree, Random Forest, and others. The system can take a URL as input and classify it as either "phishing" or "legitimate" based on several features extracted from the URL.
+This project builds a phishing URL detection system using a variety of machine learning models such as Logistic Regressions. The system can take a URL as input and classify it as either "phishing" or "legitimate" based on several features extracted from the URL.
 
 ## Dataset
 The dataset consists of two columns:
