@@ -25,7 +25,7 @@ The dataset consists of two columns:
    - **Bad**: Indicates that the URL contains malicious content, and the site is classified as a phishing site.
 5. **Missing Values**: None
 
-You can download the dataset from public sources like [Kaggle](https://www.kaggle.com) or other dataset [Mendeley Data](https://data.mendeley.com/datasets/vfszbj9b36/1).
+You can download the dataset from public sources like [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls) or other dataset [Mendeley Data](https://data.mendeley.com/datasets/vfszbj9b36/1).
 
 ## Models Used
 Several machine learning models are used and compared for phishing detection:
@@ -39,7 +39,6 @@ The models are evaluated using several performance metrics including:
 - Precision
 - Recall
 - F1-Score
-- ROC-AUC
 
 ## Results
 The Logistic Regression model showed the highest accuracy of 97% on the testing data.
