@@ -55,13 +55,15 @@ The Logistic Regression model showed the highest accuracy of 97% on the testing 
 - Add more features to improve accuracy, such as content analysis and IP address checks.
 
 ## Contributing Team
-@afif  Aafif Amirullah:
-1. Importing Libraries, Load Dataset
-2. Data analysis and preprocessing
-@wawanwfs WAHYU FAJAR SETIAWAN:
-1. Visualize some important keys using word cloud
-2. Visualize internal links, it will shows all redirect links 
-@ARTPHD Ilham Ariatama
+### @afif  Aafif Amirullah:
+1. Importing Libraries, Load Dataset.
+2. Data analysis and preprocessing.
+
+### @wawanwfs WAHYU FAJAR SETIAWAN:
+1. Visualize some important keys using word cloud.
+2. Visualize internal links, it will shows all redirect links.
+ 
+### @ARTPHD Ilham Ariatama
 1. CountVectorizer,  Spliting Data, & Creating Model
 2. Save Model & Deployment Model
 
